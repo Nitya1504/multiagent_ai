@@ -1,0 +1,7 @@
+dateparser
+apscheduler
+regex 
+speechrecognition
+PyAudio 
+pyttsx3
+-e .
